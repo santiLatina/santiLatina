@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @santiLatina
 - 👀 I’m interested in programming and networking
 - 🌱 I’m currently studying computer engineering
+- ⚡ Skills: Python, SQL, Java. Routing and transporting protocols config. DNS, NAT and more... 
 - 📫 How to reach me: santilatina99@gmail.com
 
 <!---
